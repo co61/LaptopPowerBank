@@ -16,7 +16,14 @@ For the differents ports you will have :
 ![IMG_20220104_171123](https://user-images.githubusercontent.com/59872748/148089567-3c02417a-780f-4f7b-b962-35afba906781.jpg)
 ![IMG_20220104_171140](https://user-images.githubusercontent.com/59872748/148089568-1735de45-101b-40af-8f65-ff2a12bb1b5e.jpg)
 
-You can download the Solidworks files to builds your own.
+You can download the Solidworks files to builds your own. Take care to support when printed, i made it in PLA.
+
+
+## A power bank for a laptop and tow smartphones 
+
+Pictures are visible in the folder and 3D files are available. 
+
+Conclusion and presentation will come soon.
 
 I don't take responsabilities of the risk you take with soldering the batteries and all electric danger
 
